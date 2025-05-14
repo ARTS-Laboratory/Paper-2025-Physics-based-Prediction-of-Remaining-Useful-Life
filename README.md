@@ -19,7 +19,7 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{ARTSLab2025Paper2025Physics,     
+@Misc{ARTSLab2025PhysicsBasedPrediction,     
   author = {{ARTS-L}ab},  
   howpublished = {GitHub},    
   title  = {Physics-based Prediction of Remaining Useful Life of Lithium-ion Batteries in Fuel Cell-battery Hybrid Aircraft Using an Open-source Modelica Framework},    
