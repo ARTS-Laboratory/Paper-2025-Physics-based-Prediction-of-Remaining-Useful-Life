@@ -1,4 +1,4 @@
-package PhysicsBasedPredictionRULv1
+package PhysicsBasedPredictionRUL
 
 block flightCycle
   parameter Real sigma = 2901.8;
@@ -489,4 +489,4 @@ equation
 
 end LCO_CellStackTC;
 
-end PhysicsBasedPredictionRULv1;
+end PhysicsBasedPredictionRUL;
