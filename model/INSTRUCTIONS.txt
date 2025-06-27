@@ -1,6 +1,6 @@
 To execute:
 
 1) Download files from the main model folder
-2) Open OpenModelica (or your equivalent program) and load the ElectricalEnergyStorage library and the PhysicsBasedPredictionRULv1 library.
-3) Open IMECE2025v101.  Edit the filepath in batParams.SOCOCV to reflect the appropriate location of 30Q_SOCOCV.csv on your machine.
+2) Open OpenModelica (or your equivalent program) and load the PhysicsBasedPredictionRULv101 library.
+3) Open IMECE2025v102.  Edit the filepath in batParams.SOCOCV to reflect the appropriate location of 30Q_SOCOCV.csv on your machine.
 4) Edit parameters to suit and execute.  Recommended timestep 1 sec.
