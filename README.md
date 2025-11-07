@@ -28,5 +28,6 @@ Cite as:
   url    = {https://github.com/ARTS-Laboratory/Paper-2025-Physics-based-Prediction-of-Remaining-Useful-Life},   
 }
 
+<img width="1200" height="1200" alt="QR-for-IMECE2025" src="https://github.com/user-attachments/assets/8606d784-057d-486b-bf51-1ba027717f6e" />
 
 
